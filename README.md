@@ -2,6 +2,11 @@
 
 This project analyzes user data from the 365datascience website, focusing on membership trends, subscription types, and engagement insights. The workflow includes data cleaning in Power Query, visualization in Power BI, and cross-validation using SQL to ensure accuracy and consistency.
 
+## Dashboard
+
+![Dashboard Main](images/dashboard_main.png)
+![Dashboard Geo](images/dashboard_geo.png)
+
 ## Analysis Overview
 
 1. **Total Members and Paid Membership**: Counts all members and calculates the percentage of paid members.
@@ -23,8 +28,6 @@ This project analyzes user data from the 365datascience website, focusing on mem
 
 The SQL queries in this repository provide a breakdown of metrics related to registration, subscription, survey completion, and demographic distribution. They are organized for easy execution and retrieval of insights on user demographics and engagement patterns.
 
-## Dashboard
 
-[!Alt](images/dashboard_main.png)
 
 
