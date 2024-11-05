@@ -7,6 +7,8 @@ This project analyzes user data from the 365datascience website, focusing on mem
 ![Dashboard Main](images/dashboard_main.png)
 ![Dashboard Geo](images/dashboard_geo.png)
 
+[Live link](https://app.powerbi.com/links/iUUHns9ASq?ctid=4bbb3212-11c5-4aac-96be-7e63a736a3b4&pbi_source=linkShare&bookmarkGuid=d18a3196-01da-42f0-b55a-a62511704a27)
+
 ## Analysis Overview
 
 1. **Total Members and Paid Membership**: Counts all members and calculates the percentage of paid members.
