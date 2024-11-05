@@ -20,6 +20,12 @@ This project analyzes user data from the 365datascience website, focusing on mem
    - Primary sources where users heard about the platform.
    - Main topics of interest and learning goals among members.
 
+
+## Technology Used:
+1. Power Query
+2. Microsoft Power Bi
+3. Microsoft SQL Server
+
 ## Workflow
 
 - **Data Cleaning**: Conducted in Power Query to ensure data consistency and handle missing or inconsistent values.
